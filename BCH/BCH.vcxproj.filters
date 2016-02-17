@@ -35,7 +35,7 @@
     <ClCompile Include="BCH.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\..\Downloads\bch3.cpp">
+    <ClCompile Include="bch3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
